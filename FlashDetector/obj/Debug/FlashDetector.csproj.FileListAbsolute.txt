@@ -1,0 +1,7 @@
+C:\Users\benws\source\repos\FlashDetector\FlashDetector\bin\Debug\FlashDetector.exe.config
+C:\Users\benws\source\repos\FlashDetector\FlashDetector\bin\Debug\FlashDetector.exe
+C:\Users\benws\source\repos\FlashDetector\FlashDetector\bin\Debug\FlashDetector.pdb
+C:\Users\benws\source\repos\FlashDetector\FlashDetector\obj\Debug\FlashDetector.csprojAssemblyReference.cache
+C:\Users\benws\source\repos\FlashDetector\FlashDetector\obj\Debug\FlashDetector.csproj.CoreCompileInputs.cache
+C:\Users\benws\source\repos\FlashDetector\FlashDetector\obj\Debug\FlashDetector.exe
+C:\Users\benws\source\repos\FlashDetector\FlashDetector\obj\Debug\FlashDetector.pdb
