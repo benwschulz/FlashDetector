@@ -1,4 +1,5 @@
-﻿using System.IO;
+﻿using System.Collections.Generic;
+using System.IO;
 
 namespace FlashDetector
 {
@@ -7,9 +8,13 @@ namespace FlashDetector
         static void Main(string[] args)
         {
             string directory = @"C:\Users\benws\source\repos\FlashDetector\FlashDetector\Gifs";
-            var gifs = Directory.GetFiles(directory);
+            string[] paths = Directory.GetFiles(directory);
+            List<Gif> gifs = new List<Gif>();
 
-            var foo = new Gif(gifs[0]);
+            foreach (string path in paths)
+            {
+                gifs.Add(new Gif(path));
+            }
         }
     }
 }
